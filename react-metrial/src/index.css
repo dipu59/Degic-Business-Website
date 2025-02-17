@@ -1,0 +1,19 @@
+@import "tailwindcss";
+*{
+    font-family: Arial, sans-serif;
+}
+
+/* Navbar Sing up Button */
+.nav_button{
+    padding: 13px 20px;
+    border-radius: 10px;
+    background-color: #2AB6911A;
+    color: #2AB691;
+    border: none;
+    outline: none;
+}
+.nav_button:hover{
+    cursor: pointer;
+    background-color: #24a07f3f;
+}
+/* Navbar end */
