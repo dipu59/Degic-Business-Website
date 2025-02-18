@@ -13,7 +13,7 @@ function TheQuickWay() {
         },
         {
             image:'The Quick Way/Camera.png',
-            heading:'MArketing',
+            heading:'Marketing',
             paragraph:'Software platform for running your new internet business'
         },
         {
@@ -49,7 +49,7 @@ function TheQuickWay() {
 </div>
     {/* Right Section */}
 <div className="mx-auto  w-full lg:w-1/2">
-    <h1 className="font-bold text-3xl md:text-5xl w-[400px] mb-2 text-left">The quickest way to create modern presentation</h1>
+    <h1 className="font-bold text-3xl md:text-5xl w-[270px] md:w-[400px] mb-2 text-left">The quickest way to create modern presentation</h1>
     <p className="text-[#00000080] my-2 text-sm lg:text-base text-left lg:my-6">Best software platform for running an internet business. We build the most powerful and flexible tools for internet commerce.</p>
 
     <div className='my-3 md:my-10'><button className="bg-[#5F62E226] text-[#5F62E2] px-4 py-2 md:px-5 md:py-3 rounded-lg hover:bg-[#5f61e244] active:translate-y-2 transition-all duration-300 hover:shadow-xl hover:shadow-indigo-100">Explore All <ArrowForwardIcon fontSize="small"/></button></div>

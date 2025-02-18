@@ -2,7 +2,7 @@
 function MakeMoreTime() {
     return (
         <section>
-
+            
         </section>
     )
 }
